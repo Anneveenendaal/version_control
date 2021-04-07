@@ -1,2 +1,6 @@
 hoiiiii
+<<<<<<< HEAD
 scnvjd
+=======
+second hi
+>>>>>>> 8c33a363554deb1fef2967e98ba7651b0930fa3d
